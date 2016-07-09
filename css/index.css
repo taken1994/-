@@ -1,0 +1,372 @@
+html,body{
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	overflow: hidden;
+}
+html{
+	font-size: 100px;
+}
+.swiper-container{
+	height: 100%;
+	overflow: hidden;
+}
+.swiper-slide{
+	height: 100%;
+	width: 100%;
+}
+.slider1{
+	background-color: #202c3f;
+	position: relative;
+}
+.box1-1{
+	width: 4.2rem;
+	overflow: hidden;
+	position: absolute;
+	top:1.31rem;
+	left:1.18rem;
+}
+.box1-1 img{
+	width: 100%;
+}
+.box1-2{
+	width: 2.81rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:2.79rem;
+	left:1.93rem;
+}
+.box1-2 img{
+	width: 100%;
+}
+.slider2{
+	background-color: white;
+}
+.box2-1{
+	width: 4.86rem;
+	overflow: hidden;
+	position: absolute;
+	top:1.36rem;
+	left:0.86rem;
+}
+.box2-1 img{
+	width: 100%;
+}
+.box2-2{
+	width: 6.1rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:2.59rem;
+	left:0.17rem;
+}
+.box2-2 img{
+	width: 100%;
+}
+.box2-3{
+	width: 3.64rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:0.91rem;
+	left:1.38rem;
+}
+.box2-3 img{
+	width: 100%;
+}
+.slider3{
+	background-image: url(../images/3-bg.jpg);
+	background-repeat: no-repeat;
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+}
+.box3-1{
+	width: 4.76rem;
+	overflow: hidden;
+	position: absolute;
+	top:2.51rem;
+	left:0.78rem;
+}
+.box3-1 img{
+	width: 100%;
+}
+.box3-2{
+	width: 3.98rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:1.8rem;
+	left:1.21rem;
+}
+.box3-2 img{
+	width: 100%;
+}
+.box3-3{
+	width: 3.28rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:0.41rem;
+	left:1.58rem;
+}
+.box3-3 img{
+	width: 100%;
+}
+.slider4{
+	background-color: white;
+}
+.box4-1{
+	width: 1.99rem;
+	overflow: hidden;
+	position: absolute;
+	top:0.12rem;
+	left:0.14rem;
+}
+.box4-1 img{
+	width: 100%;
+}
+.box4-2{
+	width: 1.99rem;
+	overflow: hidden;
+	position: absolute;
+	top:0.12rem;
+	left:2.19rem;
+}
+.box4-2 img{
+	width: 100%;
+}
+.box4-3{
+	width: 1.99rem;
+	overflow: hidden;
+	position: absolute;
+	top:0.12rem;
+	left:4.24rem;
+}
+.box4-3 img{
+	width: 100%;
+}
+.box4-4{
+	width: 4.76rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:3.55rem;
+	left:0.78rem;
+}
+.box4-4 img{
+	width: 100%;
+}
+.box4-5{
+	width: 4.76rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:2.39rem;
+	left:0.78rem;
+}
+.box4-5 img{
+	width: 100%;
+}
+.box4-6{
+	width: 3.98rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:1.37rem;
+	left:1.21rem;
+}
+.box4-6 img{
+	width: 100%;
+}
+.box4-7{
+	width: 3.28rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:0.41rem;
+	left:1.58rem;
+}
+.box4-7 img{
+	width: 100%;
+}
+.slider5{
+	background-color: white;
+}
+.box5-1{
+	width: 6.12rem;
+	overflow: hidden;
+	position: absolute;
+	top:0.16rem;
+	left:0.14rem;
+}
+.box5-1 img{
+	width: 100%;
+}
+.box5-2{
+	width: 1.95rem;
+	overflow: hidden;
+	position: absolute;
+	left:2.19rem;
+	bottom:4.02rem;
+}
+.box5-2 img{
+	width: 100%;
+}
+.box5-3{
+	width: 3.15rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:2.64rem;
+	left:1.62rem;
+}
+.box5-3 img{
+	width: 100%;
+}
+.box5-4{
+	width: 3.15rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:0.79rem;
+	left:1.62rem;
+}
+.box5-4 img{
+	width: 100%;
+}
+.slider6{
+	background-color: white;
+}
+.box6-1{
+	width: 1.85rem;
+	overflow: hidden;
+	position: absolute;
+	top:0.18rem;
+	left:0.14rem;
+}
+.box6-1 img{
+	width: 100%;
+}
+.box6-2{
+	width: 1.85rem;
+	overflow: hidden;
+	position: absolute;
+	left:0.14rem;
+	top:2.53rem;
+}
+.box6-2 img{
+	width: 100%;
+}
+.box6-3{
+	width: 4.21rem;
+	overflow: hidden;
+	position: absolute;
+	top:0.18rem;
+	right:0.15rem;
+}
+.box6-3 img{
+	width: 100%;
+}
+.box6-4{
+	width: 4.76rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:3.55rem;
+	left:0.78rem;
+}
+.box6-4 img{
+	width: 100%;
+}
+.box6-5{
+	width: 4.76rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:2.39rem;
+	left:0.78rem;
+}
+.box6-5 img{
+	width: 100%;
+}
+.box6-6{
+	width: 3.98rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:1.37rem;
+	left:1.21rem;
+}
+.box6-6 img{
+	width: 100%;
+}
+.box6-7{
+	width: 3.28rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:0.41rem;
+	left:1.58rem;
+}
+.box6-7 img{
+	width: 100%;
+}
+.slider7{
+	background-color: white;
+}
+.box7-1{
+	width: 6.09rem;
+	overflow: hidden;
+	position: absolute;
+	top:0.17rem;
+	left:0.15rem;
+}
+.box7-1 img{
+	width: 100%
+}
+.box7-2{
+	width: 2.97rem;
+	overflow: hidden;
+	position: absolute;
+	left:0.15rem;
+	top:0.79rem;
+}
+.box7-2 img{
+	width: 100%;
+}
+.box7-3{
+	width: 4.74rem;
+	overflow: hidden;
+	position: absolute;
+	top:1.71rem;
+	right:0.16rem;
+}
+.box7-3 img{
+	width: 100%;
+}
+.box7-4{
+	width: 4.76rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:3.55rem;
+	left:0.78rem;
+}
+.box7-4 img{
+	width: 100%;
+}
+.box7-5{
+	width: 4.76rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:2.39rem;
+	left:0.78rem;
+}
+.box7-5 img{
+	width: 100%;
+}
+.box7-6{
+	width: 3.98rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:1.37rem;
+	left:1.21rem;
+}
+.box7-6 img{
+	width: 100%;
+}
+.box7-7{
+	width: 3.28rem;
+	overflow: hidden;
+	position: absolute;
+	bottom:0.41rem;
+	left:1.58rem;
+}
+.box7-7 img{
+	width: 100%;
+}
